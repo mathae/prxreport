@@ -1,7 +1,7 @@
 \babel@toc {ngerman}{}
 \contentsline {section}{\numberline {1}Beschreibung des Umfeldes}{2}
-\contentsline {section}{\numberline {2}Darstellung der Aufgabe}{2}
-\contentsline {section}{\numberline {3}Beschreibung von L\IeC {\"o}sungsm\IeC {\"o}glichkeiten}{2}
-\contentsline {section}{\numberline {4}Das L\IeC {\"o}sungskonzept}{2}
-\contentsline {section}{\numberline {5}Ausgew\IeC {\"a}hlte Realisierungsans\IeC {\"a}tze}{2}
-\contentsline {section}{\numberline {6}Zusammenfassung, Ausblick, Reflektion}{2}
+\contentsline {section}{\numberline {2}Darstellung der Aufgabe}{3}
+\contentsline {section}{\numberline {3}Beschreibung von L\IeC {\"o}sungsm\IeC {\"o}glichkeiten}{4}
+\contentsline {section}{\numberline {4}Das L\IeC {\"o}sungskonzept}{5}
+\contentsline {section}{\numberline {5}Ausgew\IeC {\"a}hlte Realisierungsans\IeC {\"a}tze}{6}
+\contentsline {section}{\numberline {6}Zusammenfassung, Ausblick, Reflektion}{7}

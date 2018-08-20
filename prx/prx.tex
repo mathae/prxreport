@@ -3,6 +3,9 @@
 \documentclass[a4paper, 11pt]{article}
 \usepackage[ngerman]{babel}
 \usepackage[utf8]{inputenc}
+\usepackage{arev}
+\usepackage[T1]{fontenc}
+\usepackage[dvipdfm]{geometry}
 \begin{document}
 
 \tableofcontents
@@ -15,22 +18,28 @@
 
 Dies ist ein Satz.
 
+\newpage
+
 \section{Darstellung der Aufgabe}
 
-Konkret sollte im Rahmen des Infoboard Projektes eine Anwendung entwickelt werden, mit welcher sich von Redakteuren erstellte Inhalte unterschiedlicher Formate auf den in den Arbeitsräumen installierten Bildschirmen anzeigen lassen. Neben der eigentlichen Ausgabe wird dafür eine weitere Oberfläche benötigt, über die Inhalte einpflegt werden können. Diese sollte durch Zugangsdaten geschützt sein.
+Konkret sollte im Rahmen des Infoboard Projektes eine Anwendung entwickelt werden, mit welcher sich von Redakteuren erstellte Inhalte unterschiedlicher Formate auf den in den Arbeitsräumen installierten Bildschirmen anzeigen lassen. Neben der eigentlichen Ausgabe wird dafür eine weitere Oberfläche benötigt, über welche die Inhalte verwaltet werden können. Diese sollte durch Zugangsdaten geschützt sein. \\
+\\ Das eigentliche Frontend der Anwendung sollte aus vier Elementen bestehen: Ein Hauptbereich mit einem Slider, in dem stets einer der Inhalte, welcher aus Texten und optional auch aus Bildern bestehen, dargestellt wird. Ein Banner, in dem einfache, ebenfalls benutzergenerierte Lauftexte angezeigt werden können. Ein Feld welches die aktuelle Uhrzeit und das aktuelle Datum angibt. Sowie letztlich ein Feld mit dem Logo von team neusta. Das Design des Frontends sollte dabei der Corporate Identity des Unternehmens folgen.\\
+\\Die zweite Oberfläche gehört zu einem Content Management System und dient dem Einpflegen und Verwalten von benutzergenerierten Inhalten und Lauftexten. Neben einer Funktion zum Anlegen neuer Inhalte sollte es auch welche zum Löschen und Bearbeiten von bereits existierenden Inhalten geben. Jeder einzelne Inhalt soll für eine bestimmte Zeit im Slider zu sehen sein, bevor der Nächste angezeigt wird. Diese Zeitspanne sollte im CMS festlegbar sein. Außerdem sollen sowohl für die Inhalte, als auch für die Lauftexte im Banner ein Zeitraum festgelegt werden können, in welchem diese angeizeigt werden.\\
+\\ Zuletzt sollten im Slider neben den von Redakteuren erstellen Inhalten auch Inhalte von zusätzlichen Anwendungen (siehe Architektur) dargestellt werden können. Zum Verwalten dieser zusätzlichen Inhalte wird ebenfalls eine CMS-Oberfläche benötigt.\\
+\\ Das Infoboard Projekt ist ein internes Projekt von neusta software development. Es dient als Ausbildungsprojekt für Praktikanten und Neuzugänge, gleichzeitig soll es aber auch zum Austesten von neuen Technologien und Prozessen dienen. Die Mitarbeiter des Projektes werden somit einerseits anhand einer vergleichsweise trivialen Aufgabenstellung in die Arbeit eines Softwareentwicklers eingeführt, sammeln jedoch gleichzeitig auch neue Erkentnisse für das Unternehmen.
 
-- weitere Module zuschalten
 
-- 
-
+\newpage
 \section{Beschreibung von Lösungsmöglichkeiten}
 
 Dies ist ein Satz.
 
+\newpage
 \section{Das Lösungskonzept}
 
 lol.
 
+\newpage
 \section{Ausgewählte Realisierungsansätze}
 
 Spring
@@ -39,6 +48,7 @@ Docker
 
 Jenkins
 
+\newpage
 \section{Zusammenfassung, Ausblick, Reflektion}
 
 % das ist wohl jetzt das Ende des Dokumentes
